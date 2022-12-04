@@ -1,4 +1,5 @@
 # RL_algos_colab
+Policy gradient based RL algorithms
 
 ## Implemented RL algorithms
 + REINFORCE
