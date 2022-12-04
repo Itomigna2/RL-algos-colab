@@ -1,6 +1,6 @@
 # RL_algos_colab
 
-## Algorithm
+## Implemented RL algorithms
 + REINFORCE
 + REINFORCE with baseline
 + One-step Actor Critic
