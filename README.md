@@ -1,4 +1,4 @@
-# RL_algos_colab
+# RL-algos-colab
 Policy gradient based RL algorithms
 
 ## Implemented RL algorithms
